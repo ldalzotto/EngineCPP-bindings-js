@@ -1,4 +1,6 @@
 .vscode
+.idea
 lib
 dll/build
 node_modules
+.generated
